@@ -12,3 +12,6 @@ console.log("null" > 0);
 console.log(null == 0);
 
 /// === : is always used for strict check that's not allows diff datatype strictly.
+
+console.log("2" === 2);
+console.log(2 === 2);
